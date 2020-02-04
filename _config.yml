@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: Quiet Minds Inc.
+title_suffix: Homepage for the organization.
+plugins:
+  - jekyll-relative-links
+baseurl: /
+
+titles_from_headings:
+  enabled:     false
